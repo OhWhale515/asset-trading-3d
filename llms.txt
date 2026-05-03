@@ -1,0 +1,72 @@
+# 3D Asset Trading View — LLM Context Map
+
+> Market data projected onto an interactive 3D terrain for visual analysis.
+
+## Project Overview
+
+**Tech Stack**: Three.js, React Three Fiber, WebSockets, Next.js
+**Status**: Not Started
+**Purpose**: Market data projected onto an interactive 3D terrain for visual analysis.
+**Tier**: 3 (Viral)
+**Group**: A (Public source plus public demo)
+**Day**: 3 of 25
+**Target Audience**: Crypto Influencers
+**Pricing Range**: $400 to $900
+
+---
+
+## Core Documentation
+
+### decisions.md
+Architecture decision records for stack, deployment, and integration choices.
+
+### memory.md
+Implementation history, current state, and what changed across iterations.
+
+### tasks.md
+Active sprint tracker, completed items, and next priorities.
+
+(Skip files this tier does not use. See `_templates/README.md` in the meta-repo for the per-tier matrix.)
+
+---
+
+## Key Files
+
+### src/app/page.tsx
+{{One-line purpose.}}
+
+### src/components/
+{{One-line purpose.}}
+
+### src/data/
+{{One-line purpose.}}
+
+(Add files as the project grows. Keep entries to one line each.)
+
+---
+
+## Common Tasks
+
+**Start dev server**: `npm run dev`
+**Build**: `npm run build`
+**Lint**: `npm run lint`
+**Deploy**: `vercel --prod --yes`
+
+---
+
+## External Resources
+
+**Repo**: 
+**Demo**: 
+**Production**: 
+**Master Plan Reference**: 25days25 Day 3, Tier 3
+
+---
+
+## Related Projects
+
+(Other 25days25 projects this one depends on or pairs with. Leave empty if standalone.)
+
+---
+
+**Last Updated**: 2026-05-03
